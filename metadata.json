@@ -1,0 +1,6 @@
+{
+  "name": "Mesara AI AgentHub",
+  "description": "Interactive customer demonstration prototype for Mesara AI enterprise automation agents. Automate Work. Accelerate Growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
